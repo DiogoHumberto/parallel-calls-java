@@ -1,0 +1,6 @@
+debug: ${DEBUG:false}
+mode: "template"
+name: "@project.name@"
+dir: "@project.basedir@"
+version: "@project.version@"
+charset: "${MS_DEFAULT_CHARSET:UTF-8}"
